@@ -1,0 +1,10 @@
+Keep This Space Clear to make the code easier to understand
+Which direction do you want to go: North, East, South or West?
+Your back in the
+Please enter either North, East, South or West
+You cannot go that in that direction
+you already discovered the
+Leave before someone sees you
+You have returned to the 
+Time for your next task
+You have entered the

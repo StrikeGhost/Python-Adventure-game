@@ -1,0 +1,2 @@
+Which decision will you choose? (1 or 2):
+Do you want to play again? (yes or y to continue playing): 
